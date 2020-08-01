@@ -8,7 +8,6 @@ you will win in the next move. To do this the player must have control of at lea
 Examples of this scenario happening are 
 
 1.
-
 X |   | X
   |   |
 X |   |
