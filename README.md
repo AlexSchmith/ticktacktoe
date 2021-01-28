@@ -7,20 +7,18 @@ you will win in the next move. To do this the player must have control of at lea
 
 Examples of this scenario happening are 
 
-1.
-X |   | X
-  |   |
-X |   |
+X _ X
+_ X _
+_ _ _
 
-2.
-X |   | X
-  | X |
-  |   |
-  
-3.
-X |   | X
-  |   |
-  |   | X
+X _ X
+_ _ _
+X _ _
+
+X _ X
+_ _ _
+_ _ X
+
 
 Therefore the first move the CPU will make is in the upper left corner (the corner that you pick doesn't matter this is for simplicity).
 
