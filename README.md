@@ -5,19 +5,9 @@ When playing against the CPU the CPU always goes first. The CPU never loses sinc
 The CPU's strategy is to always play the upper corner. The end goal in ticktacktoe is to create an unwinnable move where whatever the opponent does 
 you will win in the next move. To do this the player must have control of at least two corners.
 
-Examples of this scenario happening are 
+The goal is to have either two corners and one x in the middle. Or to have 3 corners. With these scenarios, there will be two ways to win for the cpu.
 
-X _ X
-_ X _
-_ _ _
 
-X _ X
-_ _ _
-X _ _
-
-X _ X
-_ _ _
-_ _ X
 
 
 Therefore the first move the CPU will make is in the upper left corner (the corner that you pick doesn't matter this is for simplicity).
