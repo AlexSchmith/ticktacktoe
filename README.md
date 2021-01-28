@@ -1,5 +1,5 @@
 # ticktacktoe
-Ticktacktoe game using Java with an AI. Can be played versus a CPU or player versus player.
+Ticktacktoe game using Java with an CPU player created in 2019. Can be played versus a CPU or player versus player.
 When playing against the CPU the CPU always goes first. The CPU never loses since it plays first and can only be tied.
 
 The CPU's strategy is to always play the upper corner. The end goal in ticktacktoe is to create an unwinnable move where whatever the opponent does 
